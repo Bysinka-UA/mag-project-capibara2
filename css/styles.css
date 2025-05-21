@@ -351,19 +351,12 @@ html {
   align-items: center;
   padding: 24px 32px;
   
-  width: 420px;
   min-width: 263px;
   max-width: 420px;
-  height: 72px;
-  background: linear-gradient(80.23deg, #E8652D -4.25%, #E82DD2 28.23%, #A650FF 69.35%, #009DFF 116.49%);
+   background: linear-gradient(80.23deg, #E8652D -4.25%, #E82DD2 28.23%, #A650FF 69.35%, #009DFF 116.49%);
   border-radius: 16px;
   cursor: pointer;
   transition: 200ms ease-in;
-
-  /* content */
-
-width: 356px;
-height: 24px;
 
 /* body/button */
 font-family: 'Montserrat';
