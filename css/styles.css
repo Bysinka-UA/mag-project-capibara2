@@ -353,24 +353,20 @@ html {
   
   min-width: 263px;
   max-width: 420px;
-   background: linear-gradient(80.23deg, #E8652D -4.25%, #E82DD2 28.23%, #A650FF 69.35%, #009DFF 116.49%);
+  background: linear-gradient(80.23deg, #E8652D -4.25%, #E82DD2 28.23%, #A650FF 69.35%, #009DFF 116.49%);
   border-radius: 16px;
   cursor: pointer;
   transition: 200ms ease-in;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #FFFFFF;
+}
 
-/* body/button */
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 24px;
-/* identical to box height, or 120% */
-text-align: center;
-
-/* content text/white */
-color: #FFFFFF;
-
-  /* Footer section */
+/* Footer section */
 
 .page-footer {
   padding: 32px 0px;
